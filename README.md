@@ -8,16 +8,16 @@ This repository holds our central community resources, like our community wide
 
 If you plan to contribute to fortran-lang, have a look at the other repositories at
 [@fortran-lang](https://github.com/fortran-lang).
-For some pointers where to go next from here, have a look at the
+For some pointers where to go next from here, have a look at:
 
 - [standard library](https://github.com/fortran-lang/stdlib)
 - [package manager](https://github.com/fortran-lang/fpm)
 - [webpage sources](https://github.com/fortran-lang/fortran-lang.org)
 
 
-## Contributing to this resources
+## Contributing to this repository
 
-You want to shape help this community? You are more than welcome.
+Want to help shape this community? You are more than welcome.
 Opening an issue at this repository is fine, but our
 [discourse community](https://fortran-lang.discourse.group/)
 might be the better place for discussions.
