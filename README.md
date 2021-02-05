@@ -1,18 +1,16 @@
 # Community resources for fortran-lang
 
-This repository holds our central community resources, like our community wide
-[code of conduct](CODE_OF_CONDUCT.md) and other similar documents.
+This repository holds our central community resources, like the community-wide
+[Code of Conduct](CODE_OF_CONDUCT.md) and other documents.
 
 
 ## Contributing to fortran-lang
 
-If you plan to contribute to fortran-lang, have a look at the other repositories at
-[@fortran-lang](https://github.com/fortran-lang).
-For some pointers where to go next from here, have a look at:
+If you want to contribute to fortran-lang, look at other [@fortran-lang](https://github.com/fortran-lang) repositories:
 
-- [standard library](https://github.com/fortran-lang/stdlib)
-- [package manager](https://github.com/fortran-lang/fpm)
-- [webpage sources](https://github.com/fortran-lang/fortran-lang.org)
+- [Standard library](https://github.com/fortran-lang/stdlib)
+- [Package manager](https://github.com/fortran-lang/fpm)
+- [Website sources](https://github.com/fortran-lang/fortran-lang.org)
 
 
 ## Contributing to this repository
