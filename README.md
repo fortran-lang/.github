@@ -3,6 +3,11 @@
 This repository holds our central community resources, like the community-wide
 [Code of Conduct](CODE_OF_CONDUCT.md) and other documents.
 
+The [configuration for the issue templates](.github/ISSUE_TEMPLATE/config.yml) allows
+to add additional entries referencing external resources to the issue trackers,
+like [our discourse](https://fortran-lang.discourse.group/) or
+[our mailing list](https://groups.io/g/fortran-lang).
+
 
 ## Contributing to fortran-lang
 
