@@ -1,7 +1,8 @@
 # Community resources for fortran-lang
 
 This repository holds our central community resources, like the community-wide
-[Code of Conduct](CODE_OF_CONDUCT.md) and other documents.
+[Code of Conduct](CODE_OF_CONDUCT.md), [Governance guide](GOVERNANCE.md), and
+other documents.
 
 The [configuration for the issue templates](.github/ISSUE_TEMPLATE/config.yml) allows
 to add additional entries referencing external resources to the issue trackers,
