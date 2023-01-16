@@ -25,6 +25,7 @@ Current administrators are
 - Milan Curcic ([@milancurcic](https://github.com/milancurcic), milancurcic@hey.com)
 - Sebastian Ehlert ([@awvwgk](https://github.com/awvwgk), awvwgk@disroot.org)
 - Laurence Kedward ([@lkedward](https://github.com/lkedward), laurence.kedward@bristol.ac.uk)
+- Giannis Nikiteas ([@gnikit](https://github.com/gnikit), giannis.nikiteas@gmail.com)
 
 ## Maintainers
 
