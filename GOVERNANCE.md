@@ -48,18 +48,7 @@ administrators team.
   unanimous agreement on any major issue or decision that needs to be made.
 * In the event in which the administrators, after extensive discussion, are
   unable to reach unanimous agreement but must take action to move forward, the
-  administrators will vote and require 80% agreement to make any major decision.
-  This includes decisions such as:
-  - Adding or removing administrator team members;
-  - Changing the governance documents;
-  - Creating, removing, or transferring a Fortran-lang project (e.g. a GitHub
-    repository) or a service;
-  - Rebranding an existing Fortran-lang project;
-  - Applying for funding or contract work;
-  - Spending funds.
-  The purpose of the 80% requirement is to require a significant majority
-  agreement on a decision, while preventing any single member from blocking the
-  group from moving forward on that decision.
+  administrators will vote and require 80% agreement to move on that decision.
 * All administrators have equal voting power. For example, if there are five
   administrators, each has the voting power of 20%.
 * The administrators commit to disclose and prevent any conflict of interest
