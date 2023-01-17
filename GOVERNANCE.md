@@ -44,13 +44,11 @@ administrators team.
 * The administrators will make their best good-faith effort to act and make
   decisions that are in the best long-term interest of the broader Fortran-lang
   community, Fortran-lang projects, and the Fortran language as a whole.
-* Occasionally, there may not be unanimous agreement on any specific issue or
-  decision to be made. In such event, the administrators can vote to decide
-  how to move forward.
-* Any single administrators can call for a vote on a decision.
-* All administrators have equal voting power. For example, if there are five
-  administrators, each has the voting power of 20%.
-* The administrators will require 80% agreement to make any major decision.
+* The administrators will make their best good-faith effort to arrive to
+  unanimous agreement on any major issue or decision that needs to be made.
+* In the event in which the administrators, after extensive discussion, are
+  unable to reach unanimous agreement but must take action to move forward, the
+  administrators will vote and require 80% agreement to make any major decision.
   This includes decisions such as:
   - Adding or removing administrator team members;
   - Changing the governance documents;
@@ -62,7 +60,11 @@ administrators team.
   The purpose of the 80% requirement is to require a significant majority
   agreement on a decision, while preventing any single member from blocking the
   group from moving forward on that decision.
-* The administrators will require 51% agreement on all other decisions.
+* All administrators have equal voting power. For example, if there are five
+  administrators, each has the voting power of 20%.
+* The administrators commit to disclose and prevent any conflict of interest
+  that may arise in the context of Fortran-lang receiving funds and allocating
+  funds to sub-projects.
 * The administrator team will have at least five members. If an administrator
   leaves the team for any reason, in which event the number of administrators
   would become less than five, the remaining administrators will make their
